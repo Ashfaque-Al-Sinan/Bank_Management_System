@@ -18,7 +18,7 @@ Manage accounts, deposits, withdrawals, and more — all through a clean, respon
 
 ## 📸 Demo
 
-![Bank Management System Screenshot](screenshot.png)
+![Bank Management System Screenshot](19955dd1-6366-4c72-935d-0f56fa8f2b4a.png)
 
 > Dark-mode friendly UI with sidebar navigation and live account statistics.
 
